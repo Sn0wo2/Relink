@@ -1,6 +1,5 @@
 # Relink
 
-Resolve RTL USB network adapter downgraded 100M issue on Windows wake up.
 解决 Windows 休眠唤醒后 RTL USB 网卡协商速率降级至 100Mbps 的问题。
 
 [English README](README.md)
